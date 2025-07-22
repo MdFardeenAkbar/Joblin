@@ -125,7 +125,7 @@ npm install</code></pre>
 <hr>
 
 <h2>📄 License</h2>
-<p>This project is open-source under the <a href="LICENSE">MIT License</a>.</p>
+<p>This project is open-source</p>
 
 <hr>
 
@@ -133,5 +133,5 @@ npm install</code></pre>
 <p>
   <strong>Md Fardeen Akbar</strong><br>
   CSIT Student & Full-Stack Developer<br>
-  🔗 <a href="https://github.com/MdFardeenAkbar">GitHub</a> • 📫 <a href="mailto:fardeenakbar456@gmail.com">your-email@example.com</a>
+  🔗 <a href="https://github.com/MdFardeenAkbar">GitHub</a> • 📫 <a href="mailto:fardeenakbar456@gmail.com">fardeenakbar456@gmail.com</a>
 </p>
