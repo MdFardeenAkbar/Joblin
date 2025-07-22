@@ -2,18 +2,22 @@
 
 <h1 align="center">🗜️ Joblin</h1>
 <p align="center">
-  A full‑stack Job listing & recruiting platform featuring a GraphQL API, real‑time updates via WebSockets, and a React.js frontend.
+  <em>A full‑stack job board built with GraphQL, Node.js, WebSockets & React.</em><br>
+  Post jobs, browse openings, and chat with applicants in real‑time—all from one sleek interface.
 </p>
 <hr>
 
-<h2>📌 Overview</h2>
-<p>
-  <strong>WDP Compress 2</strong> consists of two main parts:
-  <ul>
-    <li><strong>Backend (myapp/):</strong> Node.js + Express + GraphQL + WebSocket server to handle image uploads, compression, metadata storage, and real‑time notifications.</li>
-    <li><strong>Frontend (myreactapp/):</strong> React.js SPA that lets users upload images, view compressed results, and receive live status updates.</li>
-  </ul>
-</p>
+<h2>✨ Feature Highlights</h2>
+## ✨ Feature Highlights
+| Area | What you get |
+|------|--------------|
+| **GraphQL API** | Precise queries & mutations—no over/under‑fetching |
+| **Real‑time updates** | WebSocket server pushes new jobs & messages instantly |
+| **Job management** | Recruiters can create, edit, close & delete listings |
+| **Search & filter** | Keyword, location, role‑type filters with live results |
+| **Responsive UI** | Built with React + modern CSS for desktop & mobile |
+
+---
 
 <h2>📁 Folder Structure</h2>
 <pre>
@@ -60,8 +64,8 @@ WDP Compress 2/
 <h2>🚀 Installation & Running Locally</h2>
 
 <h3>1. Clone the repo</h3>
-<pre><code>git clone https://github.com/your-username/WDP-Compress-2.git
-cd "WDP Compress 2"</code></pre>
+<pre><code>git clone https://github.com/your-username/Joblin.git
+cd "Joblin"</code></pre>
 
 <h3>2. Setup & Run Backend</h3>
 <ol>
@@ -95,13 +99,6 @@ npm install</code></pre>
 </ol>
 
 <hr>
-
-<h2>📦 Usage</h2>
-<ul>
-  <li>Upload an image → Backend compresses & stores it.</li>
-  <li>Frontend displays compression progress in real time via WebSockets.</li>
-  <li>View & download the compressed image once ready.</li>
-</ul>
 
 <hr>
 
