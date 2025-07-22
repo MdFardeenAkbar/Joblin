@@ -1,8 +1,8 @@
 <!-- README.md for a Full-Stack WDP Compress 2 Project -->
 
-<h1 align="center">🗜️ WDP Compress 2</h1>
+<h1 align="center">🗜️ Joblin</h1>
 <p align="center">
-  A full‑stack image compression & sharing platform featuring a GraphQL API, real‑time updates via WebSockets, and a React.js frontend.
+  A full‑stack Job listing & recruiting platform featuring a GraphQL API, real‑time updates via WebSockets, and a React.js frontend.
 </p>
 <hr>
 
