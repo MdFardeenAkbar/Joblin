@@ -7,16 +7,15 @@
 </p>
 <hr>
 
-<h2>✨ Feature Highlights</h2>
-## ✨ Feature Highlights
-| Area | What you get |
-|------|--------------|
-| **GraphQL API** | Precise queries & mutations—no over/under‑fetching |
-| **Real‑time updates** | WebSocket server pushes new jobs & messages instantly |
-| **Job management** | Recruiters can create, edit, close & delete listings |
-| **Search & filter** | Keyword, location, role‑type filters with live results |
-| **Responsive UI** | Built with React + modern CSS for desktop & mobile |
-
+<h2>✨ Feature Highlights</h2><br>
+<p>## ✨ Feature Highlights</p>
+<p>|        Area            |              What you get                            |</p>
+<p>|------------------------|------------------------------------------------------|</p>
+<p>| **GraphQL API**        | Precise queries & mutations—no over/under‑fetching   |</p>
+<p>| **Real‑time updates**  | WebSocket server pushes new jobs & messages instantly|</p>
+<p>| **Job management**     | Recruiters can create, edit, close & delete listings |</p>
+<p>| **Search & filter**    | Keyword, location, role‑type filters with live result|</p>
+<p>| **Responsive UI**      | Built with React + modern CSS for desktop & mobile   |</p>
 ---
 
 <h2>📁 Folder Structure</h2>
